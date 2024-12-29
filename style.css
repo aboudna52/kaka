@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+header { color: rgb(77, 211, 211);
+background-color: blue;
+}
+h1 { font-size: 52px;
+color: cadetblue;
+}
+footer{ border-radius: 10px;
+background-color: darkblue; 
+color: blanchedalmond;
+}
+nav {  background-color: rgb(158, 158, 206);
+
+border-radius: 10px;
+}
+.kaka{ border-radius: 10px;
+  border: 10px solid rgb(17, 0, 255)    
+}
+p { font-size: 20px;
+}
+.HEGP {
+margin-left:10px;
+}
+h2 { color: aqua;
+
+}
